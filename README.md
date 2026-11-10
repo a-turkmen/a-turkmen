@@ -22,5 +22,5 @@
 
 ### 📬 Me contacter
 
-- **LinkedIn :** [Alihan Türkmen] (https://www.linkedin.com)
+- **LinkedIn :** [Alihan Türkmen] (www.linkedin.com/in/alihan-türkmen)
 - **Email :** [alihan.turkmen@edu.univ-fcomte.fr](mailto:alihan.turkmen@edu.univ-fcomte.fr)
