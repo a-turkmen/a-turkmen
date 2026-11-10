@@ -13,10 +13,10 @@
 
 ### 🛠️ Compétences & Domaines d'intérêt
 
-- **Systèmes & Administration :** Linux (Debian, Ubuntu), gestion de services (systemd, crontab), optimisation énergétique (`tlp`).
+- **Systèmes & Administration :** Linux (Debian principalement), gestion de services (systemd, crontab), optimisation énergétique (`tlp`).
 - **Réseau & Services :** Adressage IP, segmentation, filtrage pare-feu (ufw/iptables), NAT/PAT.
 - **Hardware & Éco-conception :** Reconditionnement et maintenance hardware (SSD, RAM, batteries), Green IT.
-- **Systèmes Embarqués & Modding :** Architectures consoles (ARM, MIPS), installation de firmwares alternatifs (CFW), gestion de partitions et formats de stockage.
+- **Systèmes Embarqués & Modding :** Installation de firmwares alternatifs (CFW), gestion de partitions et formats de stockage.
   
 ---
 
